@@ -100,6 +100,3 @@ Chandigarh University
 
 📄 License
 This project is intended for educational and demonstration purposes only.
-
-
-You can *copy* this entire block and *paste it directly* into your *README.md* file without worrying about formatting! Let me know if everything looks good now!
